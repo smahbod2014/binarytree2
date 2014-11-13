@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		//stupid binary tree has no input
+		//you're pulling legs, Charlie!
 		Node n7 = new Node(null, null, 7);
 		Node n6 = new Node(null, null, 6);
 		Node n5 = new Node(null, null, 5);
